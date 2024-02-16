@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.counter-reset {
+    padding: 0 2px;
+    border-radius: 0;
+}
+
+.btn {
+    font-size: 20px;
+
+}
